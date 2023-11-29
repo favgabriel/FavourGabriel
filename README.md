@@ -1,11 +1,11 @@
 <h1 align="center">Hey, it's Favour Gabriel</h1>
 
 ## About
-Software Engineer with 7years of programming experience. Strong expertise in Fullstack web and android development. Serial Entrepreneur, loves to code, create and innovate.
+Software Engineer with 7 years of programming experience. Strong expertise in Fullstack web and android development. Serial Entrepreneur, loves to code, create and innovate.
 Passionate about the future of technology and science. proud to be part of [SoloChat](https://github.com/devSoloChat) top Engineers.
 
 ## Projects and Participation
-Andrioid. <br/>
+Android. <br/>
  -[SoloChat Messenger](https://galaxy.store/SoloChat) in collaboration with [SoloChat](https://github.com/devSoloChat) <br/>
  -[FindMe App](https://galaxy.store/findmeapp) in collaboration with [SoloChat](https://github.com/devSoloChat) <br/>
  -[Pickyourchoice](https://github.com/favgabriel/pickyourchoice) <br/>
