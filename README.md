@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Favour Gabriel</h1>
 <h3 align="center">Software engineer with 7 years of programming experience, Strong expertise in Fullstack web and android development</h3>
 
-<p align="left"> <a href="https://twitter.com/favurgabriel" target="blank"><img src="https://img.shields.io/twitter/follow/favurgabriel?logo=twitter&style=for-the-badge" alt="favurgabriel" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Favurgabriel" target="blank"><img src="https://img.shields.io/twitter/follow/Favurgabriel?logo=twitter&style=for-the-badge" alt="favurgabriel" /></a> </p>
 
 - 🔭 I’m currently working on [SoloChat Messenger](https://galaxy.store/SoloChat)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/favurgabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="favurgabriel" height="30" width="40" /></a>
+<a href="https://twitter.com/Favurgabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="favurgabriel" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/favour-gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="favour-gabriel" height="30" width="40" /></a>
 <a href="https://instagram.com/_favour_gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_favour_gabriel" height="30" width="40" /></a>
 </p>
